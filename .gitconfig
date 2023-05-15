@@ -1,0 +1,8 @@
+[user]
+email = gjarzebakterraform@gmail.com
+ 
+[github]
+user = "gterraform"
+ 
+[core]
+sshCommand = "ssh -i ~/.ssh/ida_rsa2.pub"
